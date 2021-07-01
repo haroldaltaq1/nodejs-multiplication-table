@@ -13,6 +13,6 @@ Opciones:
 
 #### Ejecutar aplicación
 ```
-node app.js -b 5 -l
+node app.js -b 5 -l -h 10
 ```
 
